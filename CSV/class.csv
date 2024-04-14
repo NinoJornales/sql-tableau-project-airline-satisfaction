@@ -1,0 +1,39 @@
+Airline,Class,Recommended,"Customer Satisfaction per Class"
+"All Nippon Airways","Premium Economy",no,5
+"All Nippon Airways","Premium Economy",yes,18
+"All Nippon Airways","First Class",no,2
+"All Nippon Airways","First Class",yes,4
+"All Nippon Airways","Economy Class",no,24
+"All Nippon Airways","Economy Class",yes,147
+"All Nippon Airways","Business Class",no,13
+"All Nippon Airways","Business Class",yes,45
+Emirates,"Premium Economy",no,5
+Emirates,"Premium Economy",yes,2
+Emirates,"First Class",no,10
+Emirates,"First Class",yes,28
+Emirates,"Economy Class",no,672
+Emirates,"Economy Class",yes,311
+Emirates,"Business Class",no,133
+Emirates,"Business Class",yes,189
+"Japan Airlines","Premium Economy",no,6
+"Japan Airlines","Premium Economy",yes,13
+"Japan Airlines","First Class",yes,3
+"Japan Airlines","Economy Class",no,30
+"Japan Airlines","Economy Class",yes,85
+"Japan Airlines","Business Class",no,24
+"Japan Airlines","Business Class",yes,27
+"Qatar Airways","Premium Economy",yes,7
+"Qatar Airways","First Class",no,6
+"Qatar Airways","First Class",yes,22
+"Qatar Airways","Economy Class",no,312
+"Qatar Airways","Economy Class",yes,685
+"Qatar Airways","Business Class",no,127
+"Qatar Airways","Business Class",yes,465
+"Singapore Airlines","Premium Economy",no,41
+"Singapore Airlines","Premium Economy",yes,54
+"Singapore Airlines","First Class",no,3
+"Singapore Airlines","First Class",yes,13
+"Singapore Airlines","Economy Class",no,231
+"Singapore Airlines","Economy Class",yes,377
+"Singapore Airlines","Business Class",no,71
+"Singapore Airlines","Business Class",yes,182

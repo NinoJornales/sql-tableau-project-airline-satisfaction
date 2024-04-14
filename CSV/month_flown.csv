@@ -1,0 +1,759 @@
+Airline,Month_Flown_Cleaned,Recommended,Reviews
+"Singapore Airlines",Dec-2023,yes,1
+"Singapore Airlines",Feb-2024,no,4
+"Singapore Airlines",Feb-2024,yes,9
+"Singapore Airlines",Jan-2024,yes,6
+"Singapore Airlines",Dec-2023,no,7
+"Singapore Airlines",Nov-2023,yes,5
+"Singapore Airlines",Jan-2024,no,2
+"Singapore Airlines",Sep-2023,yes,13
+"Singapore Airlines",Sep-2023,no,3
+"Singapore Airlines",Nov-2023,no,4
+"Singapore Airlines",Oct-2023,yes,3
+"Singapore Airlines",Oct-2023,no,4
+"Singapore Airlines",May-2023,no,8
+"Singapore Airlines",Aug-2023,no,5
+"Singapore Airlines",Aug-2023,yes,3
+"Singapore Airlines",Jun-2023,yes,2
+"Singapore Airlines",Apr-2023,yes,12
+"Singapore Airlines",Sep-2022,yes,7
+"Singapore Airlines",Jul-2023,no,2
+"Singapore Airlines",Jul-2023,yes,5
+"Singapore Airlines",Jan-2023,no,7
+"Singapore Airlines",May-2023,yes,9
+"Singapore Airlines",Jun-2023,no,2
+"Singapore Airlines",Feb-2023,no,3
+"Singapore Airlines",Apr-2023,no,6
+"Singapore Airlines",Feb-2023,yes,4
+"Singapore Airlines",Mar-2023,no,4
+"Singapore Airlines",Mar-2023,yes,5
+"Singapore Airlines",Jan-2023,yes,5
+"Singapore Airlines",Dec-2022,yes,5
+"Singapore Airlines",Feb-2022,yes,3
+"Singapore Airlines",Dec-2022,no,2
+"Singapore Airlines",Nov-2022,no,4
+"Singapore Airlines",Oct-2022,no,2
+"Singapore Airlines",Nov-2022,yes,7
+"Singapore Airlines",Oct-2022,yes,3
+"Singapore Airlines",Jun-2022,no,6
+"Singapore Airlines",Aug-2022,no,8
+"Singapore Airlines",Sep-2022,no,6
+"Singapore Airlines",Jul-2022,no,8
+"Singapore Airlines",Aug-2022,yes,2
+"Singapore Airlines",Apr-2022,yes,5
+"Singapore Airlines",Mar-2022,yes,5
+"Singapore Airlines",Jan-2022,yes,1
+"Singapore Airlines",Jul-2022,yes,4
+"Singapore Airlines",May-2022,yes,5
+"Singapore Airlines",Apr-2022,no,10
+"Singapore Airlines",Jun-2022,yes,5
+"Singapore Airlines",Dec-2021,no,6
+"Singapore Airlines",May-2022,no,3
+"Singapore Airlines",Mar-2022,no,5
+"Singapore Airlines",Jan-2022,no,3
+"Singapore Airlines",Nov-2021,no,3
+"Singapore Airlines",Dec-2021,yes,3
+"Singapore Airlines",Nov-2021,yes,2
+"Singapore Airlines",Oct-2021,no,1
+"Singapore Airlines",Sep-2021,no,1
+"Singapore Airlines",Aug-2021,no,1
+"Singapore Airlines",May-2021,no,1
+"Singapore Airlines",Dec-2020,yes,1
+"Singapore Airlines",Nov-2020,yes,1
+"Singapore Airlines",Dec-2019,no,6
+"Singapore Airlines",Oct-2020,no,1
+"Singapore Airlines",Sep-2020,no,1
+"Singapore Airlines",Jan-2020,yes,8
+"Singapore Airlines",Aug-2020,no,1
+"Singapore Airlines",Nov-2019,no,13
+"Singapore Airlines",Aug-2020,yes,1
+"Singapore Airlines",May-2020,no,1
+"Singapore Airlines",Mar-2020,yes,7
+"Singapore Airlines",Dec-2019,yes,16
+"Singapore Airlines",Mar-2020,no,7
+"Singapore Airlines",May-2019,no,10
+"Singapore Airlines",Jun-2019,yes,11
+"Singapore Airlines",Jan-2020,no,5
+"Singapore Airlines",Apr-2019,no,4
+"Singapore Airlines",Feb-2020,yes,7
+"Singapore Airlines",Feb-2020,no,7
+"Singapore Airlines",Nov-2019,yes,16
+"Singapore Airlines",Jul-2019,yes,14
+"Singapore Airlines",Oct-2019,yes,11
+"Singapore Airlines",Aug-2019,yes,19
+"Singapore Airlines",Sep-2019,yes,10
+"Singapore Airlines",Oct-2019,no,7
+"Singapore Airlines",Sep-2019,no,8
+"Singapore Airlines",Jun-2019,no,7
+"Singapore Airlines",Jan-2019,yes,9
+"Singapore Airlines",Aug-2019,no,4
+"Singapore Airlines",Jul-2019,no,5
+"Singapore Airlines",Apr-2019,yes,4
+"Singapore Airlines",Dec-2018,yes,10
+"Singapore Airlines",May-2019,yes,7
+"Singapore Airlines",Aug-2018,yes,12
+"Singapore Airlines",Mar-2019,no,4
+"Singapore Airlines",Feb-2019,yes,16
+"Singapore Airlines",Mar-2019,yes,10
+"Singapore Airlines",Jan-2019,no,4
+"Singapore Airlines",Feb-2019,no,4
+"Singapore Airlines",Dec-2018,no,6
+"Singapore Airlines",Oct-2018,no,3
+"Singapore Airlines",Feb-2018,no,5
+"Singapore Airlines",Nov-2018,yes,7
+"Singapore Airlines",Nov-2018,no,6
+"Singapore Airlines",Oct-2018,yes,10
+"Singapore Airlines",Jul-2018,yes,7
+"Singapore Airlines",Nov-2017,yes,9
+"Singapore Airlines",Dec-2017,yes,11
+"Singapore Airlines",Sep-2018,yes,11
+"Singapore Airlines",May-2018,yes,8
+"Singapore Airlines",Apr-2018,yes,16
+"Singapore Airlines",Jul-2018,no,4
+"Singapore Airlines",Sep-2018,no,2
+"Singapore Airlines",Aug-2018,no,3
+"Singapore Airlines",Jun-2018,yes,5
+"Singapore Airlines",Jun-2018,no,1
+"Singapore Airlines",Oct-2017,no,2
+"Singapore Airlines",Apr-2018,no,1
+"Singapore Airlines",Mar-2018,no,5
+"Singapore Airlines",Mar-2018,yes,5
+"Singapore Airlines",Jan-2018,yes,9
+"Singapore Airlines",Feb-2018,yes,10
+"Singapore Airlines",Oct-2017,yes,11
+"Singapore Airlines",Jan-2018,no,7
+"Singapore Airlines",Dec-2017,no,3
+"Singapore Airlines",Sep-2017,yes,11
+"Singapore Airlines",Aug-2017,yes,8
+"Singapore Airlines",Nov-2017,no,2
+"Singapore Airlines",May-2014,yes,1
+"Singapore Airlines",Mar-2013,yes,1
+"Singapore Airlines",Apr-2013,yes,1
+"Singapore Airlines",Apr-2017,yes,4
+"Singapore Airlines",Feb-2017,yes,7
+"Singapore Airlines",Jul-2017,no,7
+"Singapore Airlines",Jul-2017,yes,12
+"Singapore Airlines",May-2017,no,3
+"Singapore Airlines",Aug-2017,no,2
+"Singapore Airlines",Jun-2017,yes,11
+"Singapore Airlines",Jun-2017,no,3
+"Singapore Airlines",May-2017,yes,6
+"Singapore Airlines",Mar-2017,no,5
+"Singapore Airlines",Dec-2016,yes,12
+"Singapore Airlines",Apr-2017,no,2
+"Singapore Airlines",Mar-2017,yes,10
+"Singapore Airlines",Jan-2017,no,7
+"Singapore Airlines",Feb-2017,no,7
+"Singapore Airlines",Jun-2016,yes,5
+"Singapore Airlines",Mar-2016,yes,10
+"Singapore Airlines",Jan-2017,yes,13
+"Singapore Airlines",Jul-2016,yes,14
+"Singapore Airlines",Dec-2016,no,8
+"Singapore Airlines",Nov-2016,yes,11
+"Singapore Airlines",Oct-2016,yes,7
+"Singapore Airlines",Sep-2016,yes,10
+"Singapore Airlines",Nov-2016,no,1
+"Singapore Airlines",Oct-2016,no,3
+"Singapore Airlines",Jun-2016,no,3
+"Singapore Airlines",Jan-2016,yes,3
+"Singapore Airlines",Sep-2016,no,1
+"Singapore Airlines",Aug-2016,yes,2
+"Singapore Airlines",Jul-2016,no,7
+"Singapore Airlines",Aug-2016,no,1
+"Singapore Airlines",May-2016,yes,7
+"Singapore Airlines",May-2016,no,2
+"Singapore Airlines",Apr-2016,yes,7
+"Singapore Airlines",Apr-2016,no,1
+"Singapore Airlines",Feb-2016,yes,3
+"Singapore Airlines",Mar-2016,no,2
+"Singapore Airlines",Dec-2015,no,1
+"Singapore Airlines",Nov-2015,yes,1
+"Singapore Airlines",Dec-2015,yes,1
+"Qatar Airways",Mar-2024,no,1
+"Qatar Airways",Feb-2024,no,2
+"Qatar Airways",Nov-2023,no,8
+"Qatar Airways",Feb-2024,yes,4
+"Qatar Airways",Jan-2024,yes,12
+"Qatar Airways",Jan-2024,no,5
+"Qatar Airways",Dec-2023,yes,8
+"Qatar Airways",Dec-2023,no,2
+"Qatar Airways",Nov-2023,yes,6
+"Qatar Airways",Oct-2023,no,3
+"Qatar Airways",Oct-2023,yes,19
+"Qatar Airways",Jun-2023,no,5
+"Qatar Airways",Sep-2023,no,14
+"Qatar Airways",Sep-2023,yes,17
+"Qatar Airways",Jul-2023,no,12
+"Qatar Airways",Aug-2023,no,7
+"Qatar Airways",Aug-2023,yes,12
+"Qatar Airways",May-2023,yes,12
+"Qatar Airways",Jul-2023,yes,9
+"Qatar Airways",Nov-2022,yes,10
+"Qatar Airways",Jun-2023,yes,9
+"Qatar Airways",Feb-2023,no,10
+"Qatar Airways",Jan-2023,no,9
+"Qatar Airways",May-2023,no,3
+"Qatar Airways",Feb-2023,yes,13
+"Qatar Airways",Apr-2023,no,3
+"Qatar Airways",Apr-2023,yes,8
+"Qatar Airways",Mar-2023,yes,16
+"Qatar Airways",Mar-2023,no,4
+"Qatar Airways",Nov-2022,no,4
+"Qatar Airways",Jan-2023,yes,7
+"Qatar Airways",Dec-2022,yes,8
+"Qatar Airways",Dec-2022,no,3
+"Qatar Airways",Oct-2022,yes,28
+"Qatar Airways",Dec-2021,no,5
+"Qatar Airways",May-2022,no,6
+"Qatar Airways",Aug-2022,yes,18
+"Qatar Airways",Oct-2022,no,8
+"Qatar Airways",Sep-2022,yes,13
+"Qatar Airways",Nov-2021,no,3
+"Qatar Airways",Sep-2022,no,6
+"Qatar Airways",Aug-2022,no,8
+"Qatar Airways",Apr-2022,no,6
+"Qatar Airways",Jul-2022,yes,15
+"Qatar Airways",Jul-2022,no,13
+"Qatar Airways",Jun-2022,no,12
+"Qatar Airways",Jun-2022,yes,10
+"Qatar Airways",Mar-2022,no,5
+"Qatar Airways",May-2022,yes,13
+"Qatar Airways",Apr-2022,yes,20
+"Qatar Airways",Feb-2022,no,5
+"Qatar Airways",Mar-2022,yes,17
+"Qatar Airways",Jan-2022,no,7
+"Qatar Airways",Feb-2022,yes,7
+"Qatar Airways",Jan-2022,yes,8
+"Qatar Airways",Dec-2021,yes,8
+"Qatar Airways",Nov-2021,yes,9
+"Qatar Airways",Oct-2021,no,4
+"Qatar Airways",Oct-2021,yes,12
+"Qatar Airways",Dec-2020,yes,10
+"Qatar Airways",Sep-2021,yes,10
+"Qatar Airways",Aug-2021,yes,10
+"Qatar Airways",Jun-2021,yes,7
+"Qatar Airways",Nov-2020,no,3
+"Qatar Airways",Mar-2021,no,2
+"Qatar Airways",Jul-2021,yes,8
+"Qatar Airways",Jul-2021,no,2
+"Qatar Airways",Aug-2021,no,1
+"Qatar Airways",Feb-2021,yes,9
+"Qatar Airways",Jun-2021,no,1
+"Qatar Airways",May-2021,yes,8
+"Qatar Airways",Apr-2021,yes,10
+"Qatar Airways",May-2021,no,2
+"Qatar Airways",Apr-2021,no,1
+"Qatar Airways",Mar-2021,yes,8
+"Qatar Airways",Feb-2021,no,1
+"Qatar Airways",Jan-2021,yes,9
+"Qatar Airways",Dec-2020,no,1
+"Qatar Airways",Jan-2021,no,1
+"Qatar Airways",Feb-2020,yes,13
+"Qatar Airways",Mar-2020,no,3
+"Qatar Airways",Nov-2020,yes,6
+"Qatar Airways",Oct-2020,no,1
+"Qatar Airways",Mar-2020,yes,15
+"Qatar Airways",Oct-2020,yes,8
+"Qatar Airways",Apr-2020,no,1
+"Qatar Airways",Sep-2020,yes,4
+"Qatar Airways",Jul-2020,yes,11
+"Qatar Airways",Aug-2020,yes,16
+"Qatar Airways",Jun-2020,yes,5
+"Qatar Airways",Sep-2020,no,1
+"Qatar Airways",Aug-2020,no,1
+"Qatar Airways",Nov-2019,yes,14
+"Qatar Airways",Apr-2020,yes,3
+"Qatar Airways",Jul-2020,no,1
+"Qatar Airways",Sep-2019,no,13
+"Qatar Airways",May-2020,yes,3
+"Qatar Airways",Jun-2019,yes,11
+"Qatar Airways",Jan-2020,no,4
+"Qatar Airways",Dec-2019,no,7
+"Qatar Airways",Feb-2020,no,5
+"Qatar Airways",Aug-2019,yes,13
+"Qatar Airways",Mar-2019,yes,16
+"Qatar Airways",Jan-2020,yes,12
+"Qatar Airways",Oct-2019,no,7
+"Qatar Airways",Oct-2019,yes,16
+"Qatar Airways",Sep-2019,yes,12
+"Qatar Airways",Aug-2019,no,7
+"Qatar Airways",Dec-2019,yes,18
+"Qatar Airways",Nov-2019,no,7
+"Qatar Airways",Oct-2018,yes,15
+"Qatar Airways",Jul-2019,no,11
+"Qatar Airways",May-2019,no,7
+"Qatar Airways",Jul-2019,yes,11
+"Qatar Airways",May-2019,yes,14
+"Qatar Airways",Jun-2019,no,5
+"Qatar Airways",Apr-2019,yes,16
+"Qatar Airways",Apr-2019,no,6
+"Qatar Airways",Jan-2019,yes,10
+"Qatar Airways",Feb-2019,yes,13
+"Qatar Airways",Feb-2019,no,5
+"Qatar Airways",Jan-2019,no,6
+"Qatar Airways",Dec-2018,no,9
+"Qatar Airways",Dec-2018,yes,12
+"Qatar Airways",Nov-2018,yes,10
+"Qatar Airways",Nov-2018,no,2
+"Qatar Airways",Aug-2018,no,2
+"Qatar Airways",Sep-2018,no,10
+"Qatar Airways",Jun-2018,yes,12
+"Qatar Airways",Sep-2018,yes,11
+"Qatar Airways",Oct-2018,no,2
+"Qatar Airways",Jun-2018,no,7
+"Qatar Airways",Jan-2018,yes,11
+"Qatar Airways",Aug-2018,yes,13
+"Qatar Airways",Feb-2018,yes,18
+"Qatar Airways",May-2018,yes,8
+"Qatar Airways",Jul-2018,no,4
+"Qatar Airways",Mar-2018,yes,17
+"Qatar Airways",Nov-2017,yes,24
+"Qatar Airways",Jul-2018,yes,9
+"Qatar Airways",Apr-2018,yes,18
+"Qatar Airways",May-2018,no,6
+"Qatar Airways",Apr-2018,no,4
+"Qatar Airways",May-2017,yes,18
+"Qatar Airways",Mar-2018,no,6
+"Qatar Airways",Feb-2018,no,4
+"Qatar Airways",Nov-2017,no,5
+"Qatar Airways",Dec-2017,yes,14
+"Qatar Airways",Dec-2017,no,1
+"Qatar Airways",Jan-2018,no,1
+"Qatar Airways",Sep-2017,yes,16
+"Qatar Airways",Jan-2017,yes,22
+"Qatar Airways",Oct-2017,no,10
+"Qatar Airways",Oct-2017,yes,14
+"Qatar Airways",Aug-2017,no,7
+"Qatar Airways",Jun-2017,yes,17
+"Qatar Airways",Sep-2017,no,8
+"Qatar Airways",Dec-2016,yes,13
+"Qatar Airways",Jul-2017,no,8
+"Qatar Airways",Jul-2017,yes,12
+"Qatar Airways",Aug-2017,yes,10
+"Qatar Airways",May-2017,no,5
+"Qatar Airways",Feb-2017,yes,19
+"Qatar Airways",Apr-2017,yes,17
+"Qatar Airways",Apr-2017,no,3
+"Qatar Airways",Feb-2017,no,4
+"Qatar Airways",Mar-2017,yes,27
+"Qatar Airways",Aug-2016,yes,8
+"Qatar Airways",Jan-2017,no,3
+"Qatar Airways",Mar-2017,no,2
+"Qatar Airways",Dec-2016,no,3
+"Qatar Airways",Sep-2016,yes,7
+"Qatar Airways",Nov-2016,no,2
+"Qatar Airways",Oct-2016,yes,14
+"Qatar Airways",Nov-2016,yes,14
+"Qatar Airways",Apr-2016,no,5
+"Qatar Airways",May-2016,yes,19
+"Qatar Airways",Oct-2016,no,1
+"Qatar Airways",Aug-2016,no,2
+"Qatar Airways",Sep-2016,no,3
+"Qatar Airways",Jul-2016,no,4
+"Qatar Airways",Apr-2016,yes,15
+"Qatar Airways",Jul-2016,yes,14
+"Qatar Airways",Jun-2016,no,5
+"Qatar Airways",Oct-2015,yes,1
+"Qatar Airways",Jun-2016,yes,7
+"Qatar Airways",May-2016,no,7
+"Qatar Airways",Feb-2016,yes,3
+"Qatar Airways",Mar-2016,yes,3
+"Qatar Airways",Mar-2016,no,4
+"All Nippon Airways",Mar-2024,yes,1
+"All Nippon Airways",Feb-2024,no,1
+"All Nippon Airways",Jan-2024,no,2
+"All Nippon Airways",Dec-2023,yes,1
+"All Nippon Airways",Jan-2024,yes,1
+"All Nippon Airways",Nov-2023,no,3
+"All Nippon Airways",Nov-2023,yes,4
+"All Nippon Airways",Oct-2023,yes,2
+"All Nippon Airways",Oct-2023,no,1
+"All Nippon Airways",Sep-2023,yes,1
+"All Nippon Airways",Aug-2023,no,2
+"All Nippon Airways",Aug-2023,yes,1
+"All Nippon Airways",Jul-2023,yes,2
+"All Nippon Airways",Jun-2023,no,3
+"All Nippon Airways",May-2023,yes,3
+"All Nippon Airways",Jun-2023,yes,1
+"All Nippon Airways",Apr-2023,yes,2
+"All Nippon Airways",Mar-2023,yes,7
+"All Nippon Airways",Feb-2023,no,1
+"All Nippon Airways",Feb-2023,yes,2
+"All Nippon Airways",Oct-2022,yes,3
+"All Nippon Airways",Oct-2022,no,1
+"All Nippon Airways",Apr-2022,yes,2
+"All Nippon Airways",Jan-2023,yes,2
+"All Nippon Airways",Jul-2022,no,1
+"All Nippon Airways",Nov-2022,yes,3
+"All Nippon Airways",Dec-2022,yes,1
+"All Nippon Airways",Nov-2022,no,1
+"All Nippon Airways",Sep-2022,yes,1
+"All Nippon Airways",Jul-2022,yes,2
+"All Nippon Airways",May-2022,yes,1
+"All Nippon Airways",Apr-2022,no,1
+"All Nippon Airways",Jan-2022,yes,1
+"All Nippon Airways",Feb-2022,yes,1
+"All Nippon Airways",Nov-2021,yes,1
+"All Nippon Airways",Jan-2021,yes,2
+"All Nippon Airways",Dec-2020,yes,1
+"All Nippon Airways",Nov-2019,yes,4
+"All Nippon Airways",Jun-2020,yes,1
+"All Nippon Airways",Feb-2020,yes,3
+"All Nippon Airways",Mar-2020,yes,2
+"All Nippon Airways",Sep-2019,yes,2
+"All Nippon Airways",Jan-2020,yes,3
+"All Nippon Airways",Dec-2019,no,2
+"All Nippon Airways",Oct-2019,yes,5
+"All Nippon Airways",Nov-2019,no,1
+"All Nippon Airways",Sep-2019,no,2
+"All Nippon Airways",Oct-2019,no,2
+"All Nippon Airways",Jun-2019,no,1
+"All Nippon Airways",Jul-2019,yes,5
+"All Nippon Airways",Aug-2019,no,3
+"All Nippon Airways",Aug-2019,yes,2
+"All Nippon Airways",Jul-2019,no,2
+"All Nippon Airways",Oct-2018,yes,3
+"All Nippon Airways",Nov-2018,yes,3
+"All Nippon Airways",Jun-2019,yes,2
+"All Nippon Airways",Mar-2019,yes,5
+"All Nippon Airways",May-2019,no,1
+"All Nippon Airways",May-2019,yes,1
+"All Nippon Airways",Apr-2019,yes,3
+"All Nippon Airways",Jan-2019,yes,3
+"All Nippon Airways",Feb-2019,yes,2
+"All Nippon Airways",Dec-2018,yes,3
+"All Nippon Airways",Apr-2018,yes,3
+"All Nippon Airways",Dec-2018,no,1
+"All Nippon Airways",Sep-2018,no,1
+"All Nippon Airways",Aug-2018,yes,2
+"All Nippon Airways",Oct-2017,yes,6
+"All Nippon Airways",Jan-2018,yes,6
+"All Nippon Airways",Jun-2018,yes,4
+"All Nippon Airways",Jul-2018,yes,2
+"All Nippon Airways",Jul-2018,no,1
+"All Nippon Airways",Sep-2017,yes,6
+"All Nippon Airways",May-2018,no,2
+"All Nippon Airways",May-2018,yes,5
+"All Nippon Airways",Mar-2018,yes,5
+"All Nippon Airways",Dec-2017,yes,2
+"All Nippon Airways",Dec-2017,no,1
+"All Nippon Airways",Nov-2017,yes,7
+"All Nippon Airways",Aug-2017,yes,5
+"All Nippon Airways",Sep-2017,no,1
+"All Nippon Airways",Aug-2017,no,1
+"All Nippon Airways",Jun-2017,yes,7
+"All Nippon Airways",Jul-2017,yes,5
+"All Nippon Airways",Mar-2017,yes,6
+"All Nippon Airways",May-2017,yes,4
+"All Nippon Airways",Apr-2017,yes,2
+"All Nippon Airways",Dec-2016,yes,11
+"All Nippon Airways",Nov-2016,yes,3
+"All Nippon Airways",Feb-2017,yes,1
+"All Nippon Airways",Jan-2017,yes,3
+"All Nippon Airways",Jan-2017,no,1
+"All Nippon Airways",Dec-2016,no,1
+"All Nippon Airways",Sep-2016,yes,4
+"All Nippon Airways",Oct-2016,yes,1
+"All Nippon Airways",Aug-2016,yes,4
+"All Nippon Airways",Jul-2016,yes,4
+"All Nippon Airways",Jun-2016,no,1
+"All Nippon Airways",Apr-2016,yes,3
+"All Nippon Airways",May-2016,yes,1
+"All Nippon Airways",Mar-2016,no,1
+"All Nippon Airways",Mar-2016,yes,1
+"All Nippon Airways",Oct-2015,no,1
+Emirates,Feb-2024,no,4
+Emirates,Mar-2024,no,1
+Emirates,Jan-2024,no,4
+Emirates,Feb-2024,yes,2
+Emirates,Sep-2023,no,8
+Emirates,Dec-2023,no,9
+Emirates,Jan-2024,yes,1
+Emirates,Oct-2023,no,5
+Emirates,Nov-2023,no,3
+Emirates,Dec-2023,yes,2
+Emirates,Nov-2023,yes,2
+Emirates,Oct-2023,yes,1
+Emirates,Feb-2023,no,6
+Emirates,Aug-2023,no,6
+Emirates,Sep-2023,yes,1
+Emirates,Apr-2023,no,7
+Emirates,Aug-2023,yes,1
+Emirates,Sep-2022,no,10
+Emirates,Jul-2023,no,4
+Emirates,Nov-2022,no,6
+Emirates,May-2023,yes,7
+Emirates,Jul-2023,yes,1
+Emirates,May-2023,no,9
+Emirates,Jun-2023,yes,7
+Emirates,Jun-2023,no,4
+Emirates,Dec-2022,no,4
+Emirates,Apr-2023,yes,5
+Emirates,Mar-2023,no,6
+Emirates,Nov-2022,yes,7
+Emirates,May-2022,no,10
+Emirates,May-2022,yes,9
+Emirates,Mar-2023,yes,2
+Emirates,Oct-2022,no,10
+Emirates,Feb-2023,yes,1
+Emirates,Jan-2023,no,9
+Emirates,Jan-2023,yes,4
+Emirates,Dec-2022,yes,1
+Emirates,Oct-2022,yes,4
+Emirates,Dec-2021,yes,3
+Emirates,Aug-2022,no,11
+Emirates,Sep-2022,yes,1
+Emirates,Aug-2022,yes,2
+Emirates,Jul-2022,yes,4
+Emirates,Jul-2022,no,9
+Emirates,Nov-2021,yes,2
+Emirates,Jun-2022,no,7
+Emirates,Jun-2022,yes,2
+Emirates,Apr-2022,no,7
+Emirates,Mar-2022,no,5
+Emirates,Apr-2022,yes,5
+Emirates,Nov-2021,no,7
+Emirates,Mar-2022,yes,1
+Emirates,Feb-2018,no,7
+Emirates,Dec-2021,no,6
+Emirates,Jul-2021,no,5
+Emirates,Feb-2022,no,2
+Emirates,Feb-2022,yes,2
+Emirates,Jan-2022,no,6
+Emirates,Jan-2022,yes,1
+Emirates,Oct-2021,yes,3
+Emirates,Oct-2021,no,2
+Emirates,Sep-2021,no,4
+Emirates,Oct-2020,yes,2
+Emirates,Sep-2021,yes,1
+Emirates,Aug-2021,no,7
+Emirates,Jul-2021,yes,1
+Emirates,Jun-2021,no,2
+Emirates,Jul-2020,no,1
+Emirates,May-2021,yes,1
+Emirates,Apr-2021,no,2
+Emirates,May-2021,no,1
+Emirates,Apr-2021,yes,2
+Emirates,Mar-2021,no,3
+Emirates,Feb-2021,no,2
+Emirates,Dec-2020,no,2
+Emirates,Jan-2021,yes,1
+Emirates,Jan-2021,no,1
+Emirates,Dec-2020,yes,1
+Emirates,Nov-2020,yes,1
+Emirates,Apr-2020,no,4
+Emirates,Mar-2020,no,30
+Emirates,Sep-2020,no,2
+Emirates,Jan-2020,yes,9
+Emirates,Jul-2020,yes,1
+Emirates,Nov-2019,no,12
+Emirates,Dec-2019,no,18
+Emirates,Feb-2020,no,12
+Emirates,Mar-2020,yes,4
+Emirates,Feb-2020,yes,4
+Emirates,Sep-2019,yes,8
+Emirates,Jan-2020,no,12
+Emirates,Dec-2019,yes,12
+Emirates,Nov-2019,yes,9
+Emirates,Aug-2019,no,14
+Emirates,Jan-2019,yes,10
+Emirates,Oct-2019,yes,7
+Emirates,Dec-2018,yes,10
+Emirates,Sep-2019,no,14
+Emirates,Jul-2019,no,11
+Emirates,Oct-2019,no,10
+Emirates,Dec-2018,no,18
+Emirates,May-2019,no,12
+Emirates,Aug-2019,yes,3
+Emirates,Apr-2019,yes,10
+Emirates,Apr-2019,no,13
+Emirates,Jan-2019,no,20
+Emirates,Jun-2019,no,9
+Emirates,Jun-2019,yes,5
+Emirates,Mar-2019,yes,10
+Emirates,Jul-2019,yes,1
+Emirates,Aug-2018,yes,8
+Emirates,Oct-2018,yes,5
+Emirates,Feb-2019,no,19
+Emirates,Jul-2018,yes,13
+Emirates,May-2019,yes,5
+Emirates,Mar-2019,no,10
+Emirates,Nov-2018,yes,6
+Emirates,Aug-2018,no,22
+Emirates,Apr-2018,no,13
+Emirates,Feb-2019,yes,4
+Emirates,Apr-2018,yes,9
+Emirates,Oct-2018,no,10
+Emirates,Nov-2018,no,8
+Emirates,Sep-2018,yes,5
+Emirates,Jul-2018,no,23
+Emirates,Sep-2018,no,13
+Emirates,Dec-2017,no,24
+Emirates,Mar-2018,no,16
+Emirates,Jun-2018,no,9
+Emirates,Sep-2017,no,12
+Emirates,Jun-2018,yes,5
+Emirates,Jul-2017,yes,11
+Emirates,Mar-2018,yes,9
+Emirates,Oct-2017,yes,17
+Emirates,May-2018,no,7
+Emirates,May-2018,yes,5
+Emirates,Jan-2018,no,21
+Emirates,Jan-2018,yes,7
+Emirates,Feb-2018,yes,8
+Emirates,Dec-2017,yes,10
+Emirates,Apr-2017,no,6
+Emirates,Aug-2017,yes,10
+Emirates,Nov-2017,no,23
+Emirates,Oct-2017,no,10
+Emirates,Aug-2017,no,7
+Emirates,Nov-2017,yes,12
+Emirates,Mar-2017,yes,8
+Emirates,Sep-2017,yes,6
+Emirates,May-2017,yes,8
+Emirates,Apr-2017,yes,18
+Emirates,Jun-2017,no,8
+Emirates,Jul-2017,no,8
+Emirates,Jun-2017,yes,8
+Emirates,May-2017,no,3
+Emirates,Jan-2017,no,15
+Emirates,Oct-2016,no,11
+Emirates,Jul-2016,no,8
+Emirates,Jan-2017,yes,15
+Emirates,Sep-2016,yes,11
+Emirates,Nov-2016,yes,10
+Emirates,Sep-2016,no,12
+Emirates,Feb-2017,no,10
+Emirates,Mar-2017,no,7
+Emirates,May-2016,no,4
+Emirates,Feb-2017,yes,11
+Emirates,Dec-2016,no,14
+Emirates,Mar-2016,no,3
+Emirates,Oct-2016,yes,12
+Emirates,Dec-2016,yes,9
+Emirates,Aug-2016,yes,13
+Emirates,Nov-2016,no,5
+Emirates,Apr-2016,yes,7
+Emirates,Aug-2016,no,14
+Emirates,Jan-2016,yes,1
+Emirates,Jul-2016,yes,11
+Emirates,Dec-2015,yes,2
+Emirates,Sep-2015,yes,3
+Emirates,Nov-2015,no,2
+Emirates,Mar-2016,yes,11
+Emirates,Jun-2016,yes,12
+Emirates,May-2016,yes,8
+Emirates,Jun-2016,no,1
+Emirates,Apr-2016,no,6
+Emirates,Dec-2015,no,1
+"Japan Airlines",Jan-2024,no,1
+"Japan Airlines",Jan-2024,yes,2
+"Japan Airlines",Nov-2023,yes,1
+"Japan Airlines",Dec-2023,yes,2
+"Japan Airlines",Nov-2023,no,1
+"Japan Airlines",Oct-2023,no,1
+"Japan Airlines",Oct-2023,yes,2
+"Japan Airlines",Aug-2023,yes,2
+"Japan Airlines",Jul-2023,yes,2
+"Japan Airlines",Sep-2023,no,1
+"Japan Airlines",Sep-2023,yes,1
+"Japan Airlines",Aug-2023,no,1
+"Japan Airlines",Jun-2023,yes,2
+"Japan Airlines",Jun-2023,no,3
+"Japan Airlines",Feb-2023,yes,2
+"Japan Airlines",May-2023,no,1
+"Japan Airlines",Apr-2023,yes,1
+"Japan Airlines",Mar-2023,no,2
+"Japan Airlines",Jan-2023,no,1
+"Japan Airlines",Mar-2023,yes,1
+"Japan Airlines",Dec-2022,yes,3
+"Japan Airlines",Nov-2022,no,1
+"Japan Airlines",Oct-2022,no,2
+"Japan Airlines",Sep-2022,yes,1
+"Japan Airlines",Sep-2022,no,1
+"Japan Airlines",Oct-2022,yes,2
+"Japan Airlines",Aug-2022,yes,2
+"Japan Airlines",Aug-2022,no,1
+"Japan Airlines",May-2022,no,2
+"Japan Airlines",Jun-2022,no,1
+"Japan Airlines",May-2022,yes,1
+"Japan Airlines",Apr-2022,yes,2
+"Japan Airlines",Apr-2022,no,1
+"Japan Airlines",Mar-2022,no,1
+"Japan Airlines",Mar-2022,yes,1
+"Japan Airlines",Jan-2022,yes,2
+"Japan Airlines",Dec-2021,no,1
+"Japan Airlines",Jul-2021,no,1
+"Japan Airlines",Sep-2021,yes,2
+"Japan Airlines",Oct-2021,yes,1
+"Japan Airlines",Jul-2021,yes,1
+"Japan Airlines",Jun-2021,yes,2
+"Japan Airlines",Apr-2021,yes,1
+"Japan Airlines",Apr-2021,no,1
+"Japan Airlines",Dec-2020,yes,1
+"Japan Airlines",Nov-2020,yes,1
+"Japan Airlines",Jan-2020,yes,3
+"Japan Airlines",Aug-2020,yes,1
+"Japan Airlines",Feb-2020,yes,2
+"Japan Airlines",Mar-2020,no,1
+"Japan Airlines",Dec-2019,no,1
+"Japan Airlines",Jan-2020,no,3
+"Japan Airlines",Dec-2019,yes,2
+"Japan Airlines",Nov-2019,yes,3
+"Japan Airlines",Oct-2019,yes,3
+"Japan Airlines",Nov-2019,no,2
+"Japan Airlines",Sep-2019,yes,2
+"Japan Airlines",Apr-2019,yes,3
+"Japan Airlines",Aug-2019,yes,1
+"Japan Airlines",Jan-2019,yes,4
+"Japan Airlines",Jul-2019,no,1
+"Japan Airlines",Jul-2019,yes,2
+"Japan Airlines",Jun-2019,yes,2
+"Japan Airlines",Jun-2019,no,1
+"Japan Airlines",May-2019,yes,3
+"Japan Airlines",May-2019,no,1
+"Japan Airlines",Mar-2019,yes,1
+"Japan Airlines",Apr-2019,no,1
+"Japan Airlines",Mar-2018,no,2
+"Japan Airlines",Feb-2019,no,1
+"Japan Airlines",Feb-2019,yes,1
+"Japan Airlines",Dec-2018,no,2
+"Japan Airlines",Nov-2018,yes,1
+"Japan Airlines",Nov-2018,no,2
+"Japan Airlines",Oct-2018,yes,3
+"Japan Airlines",Oct-2018,no,1
+"Japan Airlines",Sep-2018,yes,2
+"Japan Airlines",Aug-2018,yes,2
+"Japan Airlines",Aug-2018,no,1
+"Japan Airlines",Apr-2018,no,1
+"Japan Airlines",Jul-2018,no,1
+"Japan Airlines",Jul-2018,yes,2
+"Japan Airlines",May-2018,yes,1
+"Japan Airlines",Jun-2018,yes,1
+"Japan Airlines",Mar-2018,yes,3
+"Japan Airlines",Apr-2018,yes,2
+"Japan Airlines",Jan-2018,no,3
+"Japan Airlines",Nov-2017,yes,2
+"Japan Airlines",Apr-2017,no,1
+"Japan Airlines",Mar-2017,no,2
+"Japan Airlines",Nov-2017,no,1
+"Japan Airlines",Sep-2017,yes,1
+"Japan Airlines",Oct-2017,yes,1
+"Japan Airlines",Sep-2017,no,1
+"Japan Airlines",Feb-2017,yes,3
+"Japan Airlines",Aug-2017,yes,3
+"Japan Airlines",Aug-2017,no,1
+"Japan Airlines",Jun-2017,yes,1
+"Japan Airlines",May-2017,yes,3
+"Japan Airlines",May-2017,no,1
+"Japan Airlines",Apr-2017,yes,2
+"Japan Airlines",Dec-2016,yes,2
+"Japan Airlines",Mar-2017,yes,1
+"Japan Airlines",Feb-2017,no,1
+"Japan Airlines",Jan-2017,yes,1
+"Japan Airlines",Oct-2016,yes,7
+"Japan Airlines",Nov-2016,yes,2
+"Japan Airlines",Sep-2016,yes,5
+"Japan Airlines",Nov-2016,no,1
+"Japan Airlines",Oct-2016,no,1
+"Japan Airlines",Aug-2016,yes,3

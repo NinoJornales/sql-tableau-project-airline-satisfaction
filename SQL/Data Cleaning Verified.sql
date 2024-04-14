@@ -1,0 +1,41 @@
+
+--------
+-- CLEAN DATA IN THE VERIFIED COLUMN THAT HAS DIFFERENT ENTRIES
+
+SELECT 
+
+Verified, 
+RECOMMENDED,
+COUNT(`Review Date`) AS 'Review Count'
+
+FROM airlines_dataset
+GROUP BY 1,2
+
+
+
+----------------
+-- CLEANING VERIFIED ENTRIES THAT ARE UNVERIFIED AND NOT VERIFIED AND CONVERTING THEM TO FALSE
+
+UPDATE airlines_dataset
+SET Verified = 'FALSE'
+WHERE VERIFIED = '*Unverified*'
+
+UPDATE airlines_dataset
+SET Verified = 'FALSE'
+WHERE VERIFIED = 'NotVerified'
+
+-----------------
+-- CLEANING ENTRIES THAT DOES NOT BELONG TO BOTH CATEGORIES AND MARKING THEM AS OTHERS
+UPDATE airlines_dataset
+SET Verified = 
+
+CASE 
+WHEN Verified = 'TRUE' then 'TRUE'
+WHEN Verified = 'FALSE' then 'FALSE'
+ELSE 'OTHERS'
+END
+)
+
+
+
+

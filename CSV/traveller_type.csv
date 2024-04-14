@@ -1,0 +1,41 @@
+Airline,"Type of Traveller",Recommended,"Customer Satisfaction per Class"
+"All Nippon Airways","Solo Leisure",no,17
+"All Nippon Airways","Solo Leisure",yes,94
+"All Nippon Airways","Family Leisure",no,8
+"All Nippon Airways","Family Leisure",yes,55
+"All Nippon Airways","Couple Leisure",no,13
+"All Nippon Airways","Couple Leisure",yes,44
+"All Nippon Airways",Business,no,6
+"All Nippon Airways",Business,yes,21
+Emirates,"Solo Leisure",no,260
+Emirates,"Solo Leisure",yes,210
+Emirates,"Family Leisure",no,210
+Emirates,"Family Leisure",yes,96
+Emirates,"Couple Leisure",no,221
+Emirates,"Couple Leisure",yes,120
+Emirates,Business,no,129
+Emirates,Business,yes,104
+"Japan Airlines","Solo Leisure",no,23
+"Japan Airlines","Solo Leisure",yes,62
+"Japan Airlines","Family Leisure",no,11
+"Japan Airlines","Family Leisure",yes,16
+"Japan Airlines","Couple Leisure",no,10
+"Japan Airlines","Couple Leisure",yes,21
+"Japan Airlines",Business,no,16
+"Japan Airlines",Business,yes,29
+"Qatar Airways","Solo Leisure",no,166
+"Qatar Airways","Solo Leisure",yes,554
+"Qatar Airways","Family Leisure",no,69
+"Qatar Airways","Family Leisure",yes,190
+"Qatar Airways","Couple Leisure",no,117
+"Qatar Airways","Couple Leisure",yes,251
+"Qatar Airways",Business,no,93
+"Qatar Airways",Business,yes,184
+"Singapore Airlines","Solo Leisure",no,107
+"Singapore Airlines","Solo Leisure",yes,251
+"Singapore Airlines","Family Leisure",no,69
+"Singapore Airlines","Family Leisure",yes,126
+"Singapore Airlines","Couple Leisure",no,108
+"Singapore Airlines","Couple Leisure",yes,156
+"Singapore Airlines",Business,no,62
+"Singapore Airlines",Business,yes,93

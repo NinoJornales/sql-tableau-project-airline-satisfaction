@@ -1,0 +1,22 @@
+Airline,Verified,Recommended,"Customer Satisfaction: Verified vs Not Verified"
+"Singapore Airlines",TRUE,yes,487
+"Singapore Airlines",TRUE,no,264
+"Singapore Airlines",FALSE,yes,139
+"Singapore Airlines",FALSE,no,82
+"Qatar Airways",FALSE,no,60
+"Qatar Airways",TRUE,no,385
+"Qatar Airways",TRUE,yes,926
+"Qatar Airways",FALSE,yes,253
+"All Nippon Airways",FALSE,yes,54
+"All Nippon Airways",TRUE,no,40
+"All Nippon Airways",TRUE,yes,160
+"All Nippon Airways",FALSE,no,4
+Emirates,TRUE,no,627
+Emirates,FALSE,no,192
+Emirates,TRUE,yes,370
+Emirates,FALSE,yes,160
+Emirates,OTHERS,no,1
+"Japan Airlines",TRUE,no,54
+"Japan Airlines",TRUE,yes,101
+"Japan Airlines",FALSE,yes,27
+"Japan Airlines",FALSE,no,6
