@@ -101,12 +101,12 @@ The most common type of traveller are those travelling for leisure with a value 
 3.  
 Qatar Airways, who has the most reviewed flights, has an average of 4.02 when all categories are considered. This lead to an overall customer satisfaction of 72.6% of 1624 passengers.
 
-![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/aff48c43-a538-4f49-8d97-5e31515d7efd)
+![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/7406c12e-082a-43fd-9a77-c8d1f7da68cf)
+
 
 Compared to Emirates, which only has an average of 3.14 for all the categories, only saw a 39.26% customer satisfaction across 1350 passengers. 
 
 ![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/599c635e-01eb-4c95-980b-c8efc6fbb50b)
-
 
 
 ### Dashboard
