@@ -108,6 +108,12 @@ Compared to Emirates, which only has an average of 3.14 for all the categories, 
 
 ![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/599c635e-01eb-4c95-980b-c8efc6fbb50b)
 
+Another example would be All Nippon Airways which has an average of 4.14 for alll the categories, and saw the highest customer satisfaction percentage of 82.95% across 258 passengers.
+
+![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/ff6f2d41-4878-46cf-bd4a-4a0b0a32f4b1)
+
+This leads us to believe that the average rating across all the categories is directly proportional to the passengers' overall satisfaction.
+
 
 ### Dashboard
 
