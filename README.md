@@ -2,9 +2,7 @@
 
 ### Project Overview
 
-   This data analysis project aims to provide insights into the different factors affecting customer satisfaction across different airlines. By analyzing the customer satisfaction data,
-   the project seeks to gain a deeper understanding of the distribution of satisfied and unsatisfied customers based on month flown, class, type of traveller, and whether the user is verified or not. 
-   The project also provides a deeper look into the categories the top airlines excel at in order to ensure customer satisfaction.
+This data analysis project aims to provide insights into the different factors affecting customer satisfaction across different airlines. By analyzing the customer satisfaction data, the project seeks to gain a deeper understanding of the distribution of satisfied and unsatisfied customers based on the month flown, class, type of traveler, and whether the user is verified or not. The project also provides a deeper look into the categories the top airlines excel at to ensure customer satisfaction.
 
   
 ### Data Sources
@@ -70,9 +68,9 @@ The query below takes the average of different categories based on the airline
 
 The EDA aims to answer key questions such as:
 
-- What is the total number reviews and how much of them were satisfied.
-- How are the reviews distributed based on Verification, Class, and Type of Traveller.
-- How does the different categories affect customer satisfaction.
+- What is the total number of reviews and how many of them were satisfied?
+- How are the reviews distributed based on Verification, Class, and Type of Traveller?
+- How do the different categories affect customer satisfaction?
   
 
 ### Analysis and Findings
@@ -99,7 +97,7 @@ The most common type of traveller are those travelling for leisure with a value 
 
 
 3.  
-Qatar Airways, who has the most reviewed flights, has an average of 4.02 when all categories are considered. This lead to an overall customer satisfaction of 72.6% of 1624 passengers.
+Qatar Airways, which has the most reviewed flights, has an average of 4.02 when all categories are considered. This led to an overall customer satisfaction of 72.6% of 1624 passengers.
 
 ![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/7406c12e-082a-43fd-9a77-c8d1f7da68cf)
 
@@ -108,7 +106,7 @@ Compared to Emirates, which only has an average of 3.14 for all the categories, 
 
 ![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/599c635e-01eb-4c95-980b-c8efc6fbb50b)
 
-Another example would be All Nippon Airways which has an average of 4.14 for alll the categories, and saw the highest customer satisfaction percentage of 82.95% across 258 passengers.
+Another example would be All Nippon Airways which has an average of 4.14 for all the categories and saw the highest customer satisfaction percentage of 82.95% across 258 passengers.
 
 ![image](https://github.com/NinoJornales/sql-tableau-project-airline-satisfaction/assets/166905805/ff6f2d41-4878-46cf-bd4a-4a0b0a32f4b1)
 
